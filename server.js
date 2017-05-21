@@ -1,8 +1,8 @@
 var options = {
-  clientId: "maximebourdel@bourses-150912.iam.gserviceaccount.com",
-  email: "maximebourdel@bourses-150912.iam.gserviceaccount.com",
-  key: "/var/www/html/bourses/google-api/key/google-services-private-key.pem",
-  ids: "ga:143026935"
+  clientId: "XXXXXX@bourses-XXXXXX.iam.gserviceaccount.com",
+  email: "XXXXXXXXXXXX@XXXXXX-XXXXXXX.iam.gserviceaccount.com",
+  key: "/FULL_PATH_TO/key/google-services-private-key.pem",
+  ids: "ga:XXXXXXXXXX"
 };
 
 var und = require('underscore');
